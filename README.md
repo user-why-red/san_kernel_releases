@@ -1,3 +1,3 @@
 #            san_kernel_releases
 
-• Kernel source for 4.4.X SDM660 -> https://github.com/user-why-red/san_kernel_xiaomi_sdm660_44
+• Kernel source for 4.9.X MSM8953 -> https://github.com/user-why-red/android_kernel_xiaomi_msm8953_49
